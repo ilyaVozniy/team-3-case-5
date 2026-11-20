@@ -1,0 +1,14 @@
+# Python 3.12 — окружение, на котором проверен ML_Food_Delivery_Final.ipynb
+# установка: pip install -r requirements.txt
+pandas==3.0.6
+numpy==2.5.3
+scipy==1.18.1
+scikit-learn==1.9.1
+lightgbm==4.7.0
+xgboost==3.4.1
+catboost==1.2.10
+optuna==5.1.0
+shap==0.54.1
+matplotlib==3.11.2
+seaborn==0.13.2
+kagglehub==1.0.1
